@@ -6,7 +6,7 @@ Salient Features
 2) Unique Captcha and OTP generation for security
 3) Mock payment mechanism that accepts Debit/Credit card information
 
-Just clone this github repo and run using any standard Java compiler/IDE and experience the online ticket booking mechanism in an offline console based mode!
+Just clone this github repo and compile the Railway_Reservation_Management_System.java file using any standard Java compiler/IDE and experience the online ticket booking mechanism in an offline console based mode!
 
 NOTE:
 This project was developed as a part of ICSE Class X Board Project Evaluation.
